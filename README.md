@@ -1,5 +1,3 @@
-# mate
-
 ## Hi 👋
 
 -  ⚡ Languages: Lua, JavaScript, Python
