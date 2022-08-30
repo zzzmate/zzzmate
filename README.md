@@ -5,7 +5,7 @@
 Actually Learned:
   - Lua
   - NodeJS
-  - C#
+  - C# > Already Forgot It\
 Want to Learn:
   - C++
   - Python
