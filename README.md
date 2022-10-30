@@ -1,12 +1,12 @@
-[instagram](https://instagram.com/_mate666), [steam](https://steamcommunity.com/id/koreanmaffia), mate#1337
+[instagram](https://instagram.com/_mate666), [steam](https://steamcommunity.com/id/47shawwty), mate#1337
 
-Actually Learned:
+Actually Learned
   - Lua
   - NodeJS
   - C# > Already Forgot It
 
-Learning:
+Learning
   - C++
 
-Want to Learn:
+Want to Learn
   - Python
