@@ -3,7 +3,7 @@
 Actually Learned
   - Lua
   - NodeJS
-  - C# > Already Forgot It
+  - C#
 
 Learning
   - C++
