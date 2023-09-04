@@ -1,5 +1,2 @@
-1990 gonna be my year fr
-
 egy konstans pointer ami egy konstans pointer változóra mutat ami meg egy konstans int adattípusra
-
-https://steamcommunity.com/id/sixhunna
+const int* const* num = 1337;
