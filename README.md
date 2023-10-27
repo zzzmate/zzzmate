@@ -1,17 +1,10 @@
 Really not in the mood right now
-
 Hennessy got me boozed right now
-
 Mama told me to stack my chips
-
 Feelin' like I can't lose right now (uh)
-
 I see niggas keep playin' these games
-
 They must got it confused right now
-
 Straight to the top, this ain't never gon' stop (uh, huh)
-
 I got somethin' to prove right now (yeah)
 
 
