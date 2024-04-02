@@ -1,4 +1,1 @@
-            <a href="https://steamcommunity.com/id/sixhunna" target="_blank">steam</a>
-            <a href="https://instagram.com/_mate666" target="_blank">instagram</a>
-            <a href="https://discordlookup.com/user/302540887710498827" target="_blank">discord</a>
-            <a href="https://github.com/zzzmate" target="_blank">github</a>
+![image_4](https://github.com/zzzmate/zzzmate/assets/104621347/b3e717d8-8ec0-4184-8be3-8c22121d1002)
