@@ -1,10 +1,10 @@
 18
 
-coding since the age of 9 and since then made some cool stuff
+started coding at 9 and have built some cool stuff ever since
 
 working on **onianime.hu**
 
-c++/frontend/java/php/sql
+c++/frontend/java/php/sql/asm
 
 **socials**
 
