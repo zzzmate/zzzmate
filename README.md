@@ -30,6 +30,7 @@ I've spent **countless hours working with MySQL**, designing databases, optimizi
 - **HTML**
 - **CSS**
 - **PHP**
+- **PYTHON**
 - **C++** *(currently learning and improving)*
 
 I'm always interested in exploring new technologies and expanding my knowledge, especially in **C++** and low-level programming concepts.
@@ -41,14 +42,6 @@ I'm always interested in exploring new technologies and expanding my knowledge, 
 > I genuinely enjoy learning and building things.
 
 Programming isn't just something I do—it's something I love. I enjoy solving complex problems, creating useful tools, and turning ideas into real products that people use every day.
-
-What drives me:
-
-- 🔥 Continuous learning
-- 🚀 Building large-scale web projects
-- 🧠 Improving performance and scalability
-- 💡 Creating great user experiences
-- 📚 Learning more about C++ and system programming
 
 ---
 
